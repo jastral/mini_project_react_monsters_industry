@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mini_project_react_monsters_industry./static/css/main.f439df05.css",
+    "main.js": "/mini_project_react_monsters_industry./static/js/main.c39fda80.js",
+    "static/js/787.df9c76d0.chunk.js": "/mini_project_react_monsters_industry./static/js/787.df9c76d0.chunk.js",
+    "index.html": "/mini_project_react_monsters_industry./index.html",
+    "main.f439df05.css.map": "/mini_project_react_monsters_industry./static/css/main.f439df05.css.map",
+    "main.c39fda80.js.map": "/mini_project_react_monsters_industry./static/js/main.c39fda80.js.map",
+    "787.df9c76d0.chunk.js.map": "/mini_project_react_monsters_industry./static/js/787.df9c76d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f439df05.css",
+    "static/js/main.c39fda80.js"
+  ]
+}
